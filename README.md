@@ -1,2 +1,2 @@
 # king-kong
- my python 
+  For Compititive coding 
